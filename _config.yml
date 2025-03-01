@@ -48,7 +48,7 @@ author:
 
   # Social media
   bluesky          : "audreythill.bsky.social" # Replace this with you Bluesky username
-  linkedin         : "https://www.linkedin.com/in/audreythill/"
+  linkedin         : #"https://www.linkedin.com/in/audreythill/"
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
