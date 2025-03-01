@@ -13,8 +13,5 @@ Audrey has conducted extensive research on illicit markets and corruption in Sou
 
 Education
 ======
-Current:
-* PhD Political Science, Brown University (From Fall 2025)
-Past:
 * Master of Global Affairs, University of Notre Dame 
 * B.A. Sociology; Peace & Conflict Studies, Goshen College
