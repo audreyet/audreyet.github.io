@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Farmer–herder conflicts in sub-Saharan Africa: drivers, impacts, and resolution and peacebuilding strategies"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+permalink: https://iopscience.iop.org/article/10.1088/1748-9326/ad0702
+excerpt: 'Resource scarcity and insecurity due to climate change, coupled with ethnic, religious, and identity politics, have strained peaceful coexistence between farmers and herders in West and Central Africa over the last few decades. Violent farmer–herder clashes now pose a significant threat to security and stability in the Sahelian and savannah dryland regions. Despite the large and increasing literature on these conflicts in recent decades, no comprehensive reviews or syntheses of knowledge on these conflicts have been published. We review empirical studies on farmer–herder conflicts in sub-Saharan Africa published from 2000 to 2021, focusing holistically on drivers, impacts, and the opportunities and limits of the main resolution and peacebuilding strategies different actors use to manage the conflicts.'
+date: 2023-11-03
+venue: 'Environmental Research Letters'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Adams, Ellis Adjei, Audrey Thill, Elias Danyi Kuusaana, and Anna Mittag. 2023. Farmer–herder conflicts in sub-Saharan Africa: drivers, impacts, and resolution and peacebuilding strategies. Environmental Research Letters 18(12), doi: 10.1088/1748-9326/ad0702.'
+awards: 'Editor's Choice Award - Emerging Regions'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
