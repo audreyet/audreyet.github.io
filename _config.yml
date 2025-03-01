@@ -26,8 +26,8 @@ author:
   name             : "Audrey E Thill"
   pronouns         : # example: "she/her"  
   bio              : "Illicit economies & conflict researcher"
-  location         : "Providence, RI"
-  employer         : "Brown University"
+  location         : "USA"
+  employer         : #"Brown University"
   uri              : # URL
   email            : # address
 
