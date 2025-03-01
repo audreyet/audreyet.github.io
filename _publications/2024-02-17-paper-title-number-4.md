@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "How Myanmar’s wood funds its brutal military"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+category: policy papers & media
+permalink: https://foreignpolicy.com/2024/06/10/myanmar-wood-timber-military-junta-conflict-sanctions/
+excerpt: 'Since the 2021 coup, the international community has imposed economic sanctions to restrict the military generals’ ability to enrich themselves from natural resources and business ventures. Some experts claim the regime is weaker than previously thought, partly due to the success of a united front of ethnic armed organizations since late 2023. Yet the military’s relentless and brutal “four cuts'' campaign demonstrates their resilience against the increasingly consolidated resistance and economic isolation. One strategy the military employs is circumventing sanctions and selling timber to international buyers.'
+date: 2024-06-10
+venue: 'Foreign Policy'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Audrey Thill. 2024. How Myanmar’s wood funds its brutal military: Conflict timber flows to India and China. Foreign Policy.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
