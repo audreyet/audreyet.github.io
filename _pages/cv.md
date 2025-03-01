@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
- 
+[📄 Download my CV](/files/cv.pdf){:target="_blank"}
