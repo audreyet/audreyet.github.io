@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Headshot_smaller.jpg"
+  avatar           : "Headshot_smaller.jpg"
   name             : "Audrey E Thill"
   pronouns         : # example: "she/her"  
   bio              : "Illicit economies & conflict researcher"
