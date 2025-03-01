@@ -13,12 +13,10 @@ excerpt: >
   different actors use to manage the conflicts.
 date: "2023-11-03"
 venue: "Environmental Research Letters"
-paperurl: "http://academicpages.github.io/files/Adams_et_al_2023.pdf"
+# paperurl: "http://academicpages.github.io/files/Adams_et_al_2023.pdf"
 citation: >
   Adams, Ellis Adjei, Audrey Thill, Elias Danyi Kuusaana, and Anna Mittag. 2023. 
   Farmer–herder conflicts in sub-Saharan Africa: drivers, impacts, and resolution and peacebuilding strategies. 
   Environmental Research Letters 18(12), doi: 10.1088/1748-9326/ad0702.
 awards: "Editor's Choice Award - Emerging Regions"
 ---
-
-#The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
