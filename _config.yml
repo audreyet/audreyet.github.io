@@ -48,7 +48,7 @@ author:
 
   # Social media
   bluesky          : "audreythill.bsky.social" # Replace this with you Bluesky username
-  linkedin         : # "https://www.linkedin.com/in/audreythill/"
+  linkedin         : "https://www.linkedin.com/in/audreythill/"
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -58,8 +58,6 @@ publication_category:
     title: 'How Myanmar’s Wood Funds its Brutal Military'
   manuscripts:
     title: #'Journal Articles'    
-  conferences:
-    title: #'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
