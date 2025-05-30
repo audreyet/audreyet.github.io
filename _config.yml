@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "@audreythill.bsky.social‬" # Replace this with you Bluesky username
+  bluesky          : "@audreythill.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -78,12 +78,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
- Articles:
-   title: 'Journal Articles'
- Reports:
-   title: 'Policy Writing'    
- #conferences:
-   #title: 'Conference Papers'
+  Articles:           #
+    title: 'Journal Articles'
+  Reports:            #
+    title: 'Policy Writing'    
+  #conferences:       #
+    #title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
