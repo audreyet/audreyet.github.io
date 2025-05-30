@@ -1,3 +1,4 @@
+---
 title: "Compound Crime: Cyber Scam Operations in Southeast Asia
 collection: publications
 category: Reports
@@ -7,3 +8,4 @@ date: 2025-05-29
 venue: 'Global Initiative Against Transnational Organized Crime'
 paperurl: 'https://globalinitiative.net/analysis/compound-crime-cyber-scam-operations-in-southeast-asia/'
 #citation: 'Your Name. "Report Title." GITOC, 2024.'
+---
