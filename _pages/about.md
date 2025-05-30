@@ -15,6 +15,6 @@ Prior to my Phd studies, conducted extensive research on illicit markets and cor
 
 Education
 ======
-Master of Global Affairs - University of Notre Dame (Kroc Institute for International Peace Studies)
-
-BA in Sociology and Peace and Conflict Studies - Goshen College
+Master of Global Affairs, University of Notre Dame (Kroc Institute for International Peace Studies)
+BA, Sociology and Peace and Conflict Studies, Goshen College
+---
