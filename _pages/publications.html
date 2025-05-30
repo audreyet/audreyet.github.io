@@ -1,16 +1,31 @@
----
+Replace your current publications page code with this:
+yaml---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<h2>Debug Info</h2>
-<p>Number of publications found: {{ site.publications.size }}</p>
-
-{% for post in site.publications %}
-  <h3>{{ post.title }}</h3>
-  <p>Category: {{ post.category }}</p>
-  <p>Date: {{ post.date }}</p>
-  <hr>
-{% endfor %}
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find my journal articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+{% include base_path %}
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
