@@ -78,10 +78,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  Articles:           #
-    title: 'Journal Articles'
-  Reports:            #
-    title: 'Policy Writing'    
+  Reports:
+    title: 'Policy Writing'
+  Articles:
+    title: 'Journal Articles'    
   #conferences:       #
     #title: 'Conference Papers'
 
