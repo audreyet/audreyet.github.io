@@ -18,4 +18,5 @@ I speak Khmer fluently and am proficient in Khmer script.
 Education
 ---
 Master of Global Affairs, University of Notre Dame (Kroc Institute for International Peace Studies)
+
 BA, Sociology and Peace and Conflict Studies, Goshen College
