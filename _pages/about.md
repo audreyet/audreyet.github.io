@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Welcome!
+---
 
 I am an incoming PhD student in political science at Brown University, specializing in international relations with a focus on transnational flows, illicit markets, and elite networks.
 
