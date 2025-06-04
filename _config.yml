@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : @audreythill.bsky.social
+  bluesky          : "@audreythill.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : audreythill
+  linkedin         : "www.linkedin.com/in/audreythill"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
