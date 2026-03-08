@@ -10,11 +10,9 @@ redirect_from:
 Welcome!
 ---
 
-I am a first-year PhD student in Political Science at Brown University. My research focuses on extralegal governance, political violence, and illicit resource markets. My broader theoretical interests focus on the clandestine dimensions of trade and security.
+I am a PhD student in Political Science at Brown University. My research examines the clandestine dimensions of trade and security — including illicit resource markets, sanctions evasion, and political violence. I am broadly interested in how formal and informal institutions produce order in illicit economies, structure violence, and mediate relationships between states and nonstate criminal actors.
 
-My work is grounded in extensive fieldwork experience in Southeast Asia. Prior to beginning my graduate studies, I worked for a combined 6 years in Cambodia and Myanmar, collaborating with local researchers and civil society organizations.
-
-I have "superior" (ACTFL) proficiency in Khmer and am studying Mandarin.
+My work is informed by six years of fieldwork in Cambodia and Myanmar, where I collaborated with local researchers and civil society organizations. I have advanced proficiency in Khmer and am currently studying Mandarin.
 
 Education
 * Current PhD student, Department of Political Science, Brown University
